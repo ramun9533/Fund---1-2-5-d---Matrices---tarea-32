@@ -18,6 +18,7 @@ int main()
                 printf("\n");
                 funcion= ((x+2)*(x+2))+(3*y);
                 printf("\n el resultado de la funcion es: [%d] [%d]= %d \t \t",x, y, funcion);
+                funcion=verde [x][y];
             }
     }
     return 0;
